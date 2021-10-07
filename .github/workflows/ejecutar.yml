@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     name: 'Tarea para saludarme'
     steps:
-      - name: 'Ejecitar la accion del docker'
+      - name: 'Ejecutar la accion del Docker'
         id: hola
         uses: 205350330/contenedores-docker@main
         with:
