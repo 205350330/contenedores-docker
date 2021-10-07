@@ -1,7 +1,7 @@
 name: 'Saludo Desde Docker'
 description: 'Hace un saludo desde el contenedor'
 inputs:
-  quie:
+  quien:
     description: 'Para quién es el saludo'
     required: true
     default: 'Todos'
