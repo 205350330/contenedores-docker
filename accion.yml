@@ -1,5 +1,5 @@
 name: 'Saludo Desde Docker'
-description: 'Hace un saludo el contenedor'
+description: 'Hace un saludo desde el contenedor'
 inputs:
   quie:
     description: 'Para quién es el saludo'
