@@ -11,4 +11,4 @@ jobs:
       - name: 'Listar los contenedores en ejecusion'
         run: docker ps -a
       - name: 'Mostrar loa bitacora de inicio'
-        run: docker logs contenedores-docker/basedatos
+        run: docker logs basedatos
